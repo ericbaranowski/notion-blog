@@ -34,7 +34,7 @@ export default () => (
           This is a statically generated{' '}
           <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
           <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
-          is deployed with <ExtLink href="https://vercel.com">Vercel</ExtLink>.
+          is deployed with <ExtLink href="https://kulado.com">KULADO</ExtLink>.
           It leverages some upcoming features in Next.js like{' '}
           <ExtLink href="https://github.com/vercel/next.js/issues/9524">
             SSG support
